@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Hi! I'm Md. Monir Uddin, a passionate Web Developer with expertise in HTML, CSS, Tailwindcss, JavaScript, React JS, Express JS, and MongoDB.<br><br>My vision as a web developer might evolve over time based on my experiences, interests, and the changing landscape of technology and user needs. The key is to align my work with me aspirations to make a positive impact and deliver valuable solutions in the digital world.<br><br>- 🔭 I’m working as  web developer  and currently i working on MERN Stack projects.<br>- 📚 I'm currently exploring and learning NextJS<br>- ⚡ In my free time I like to reading books</p>
+<p align="left">Hi! I'm Md. Monir Uddin, a passionate React Web Developer with expertise in HTML, CSS, Tailwindcss, JavaScript, React JS, Express JS, and MongoDB.<br><br>My vision as a web developer might evolve over time based on my experiences, interests, and the changing landscape of technology and user needs. The key is to align my work with me aspirations to make a positive impact and deliver valuable solutions in the digital world.<br><br>- 🔭 I’m working as  web developer  and currently i working on MERN Stack projects.<br>- 📚 I'm currently exploring and learning NextJS<br>- ⚡ In my free time I like to reading books</p>
 
 ###
 
