@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">Live Link: muhomeservice-client.vercel.app  <br><br>Client Side Link: https://github.com/moniru005/muhomeservice/tree/main/client <br><br>Server Side Link: https://github.com/moniru005/muhomeservice/tree/main/server</p>
+<p align="left">Live Link: https://muhomeservice-client.vercel.app  <br><br>Client Side Link: https://github.com/moniru005/muhomeservice/tree/main/client <br><br>Server Side Link: https://github.com/moniru005/muhomeservice/tree/main/server</p>
 
 ###
 
